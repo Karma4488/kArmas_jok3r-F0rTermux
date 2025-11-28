@@ -1,2 +1,2 @@
 # kArmas_jok3r-F0rTermux
-multi tools bash script, unrooted made for termux, in jok3r style, made in l0v3 by karmasec
+multi tool, bash script, unrooted. For termux, in jok3r style, : D made in l0v3 by karmasec
