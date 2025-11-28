@@ -1,7 +1,7 @@
-#!/bin/bash
 # =============================================================================
-# kArmas_jok3r-F0rTermuX v4.1 — FINAL FIXED VERSION (Nov 2025)
-# No root • No GitHub login • No syntax errors • 100% working
+# kArmas_jok3r-F0rTermuX v4.1 (Nov 2025)
+# No root • No GitHub login • No syntax errors 
+# Made bY in l0v3 karmasec
 # =============================================================================
 
 clear
