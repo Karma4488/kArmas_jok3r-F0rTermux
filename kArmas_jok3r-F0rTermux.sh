@@ -1,7 +1,7 @@
 # =============================================================================
-# kArmas_jok3r-F0rTermuX v4.1 (Nov 2025)
-# No root • No GitHub login • No syntax errors 
-# Made bY in l0v3 karmasec
+# kArmas_jok3r-F0rTermuX v4.1 (2025)
+# No root • cas it funny : D
+# Made in l0v³ bY kArmasec
 # =============================================================================
 
 clear
